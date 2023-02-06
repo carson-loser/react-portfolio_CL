@@ -1,2 +1,2 @@
 # react-portfolio_CL
-test to see if this is connecteds
+test to see if this is connected
