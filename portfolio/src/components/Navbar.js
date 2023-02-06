@@ -1,9 +1,10 @@
 import React from "react";
+import "../index.css";
 
 function Navbar(props) {
   return (
     <nav className="navbar">
-      <a href="#" className="looks">here</a>
+      <a href="#" className="looks">React Portfolio</a>
       <ul className="tabs">
         <li className="tabItem">
           <a href="#" className="tabLink">Home</a>
