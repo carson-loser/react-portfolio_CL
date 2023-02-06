@@ -29,4 +29,7 @@
 * When the user views the footer, they are presented with an icon or text that is linked to the developers GitHub and LinkedIn profile and a link to a 3rd party platform (Stack, Overflow, Twitter, etc.).
 
 # GitHub Repository Link: 
-- https://github.com/carson-loser/Social-Network_API
+- https://github.com/carson-loser/react-portfolio_CL
+
+# GitHub pages link: 
+- https://carson-loser.github.io/react-portfolio_CL/
